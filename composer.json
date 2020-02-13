@@ -1,0 +1,15 @@
+{
+    "name": "Bit Ganj Shop",
+    "description": "Tool for controling shop",
+    "type": "project",
+    "license": "AGPL",
+    "authors": [
+        {
+            "name": "God Jah"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^5.4"
+    }
+}
